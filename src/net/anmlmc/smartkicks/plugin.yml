@@ -1,0 +1,6 @@
+name: SmartKicks
+main: net.anmlmc.smartkicks.SmartKicks
+version: 1.0
+author: Anml
+commands:
+   hub:
